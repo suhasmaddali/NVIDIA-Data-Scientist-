@@ -1,6 +1,6 @@
 # NVIDIA Data Scientist Intern
 
-![](https://github.com/suhasmaddali/Images/blob/main/rafael-pol-6b5uqlWabB0-unsplash.jpg)
+<img src = "https://github.com/suhasmaddali/Images/blob/main/rafael-pol-6b5uqlWabB0-unsplash.jpg" width = 500 />
 
 * Worked with __forecasting__ the future demand for __NVIDIA__ products based on a set of constraints. 
 * Implemented various __state-of-the-art machine learning and deep learning models__ to make predictions about the future based on past supplies and various predictors. 
